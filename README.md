@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crazyomya
 - 👀 I’m interested in coding competitions and working on open source projects
 - 🌱 I’m currently pursuing my bachelor's in engineering.
-- I'm good at programming languages python and C and have done various projects in the same.
+- ⚙️ I'm good at programming languages python and C and have done various projects in the same.
 - 📫 You can contact me at omkarofficial789@gmail.com or https://www.linkedin.com/in/omkar-kulkarni-bbb600205
 - I'm currently looking for internships.

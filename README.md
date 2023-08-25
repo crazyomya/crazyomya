@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm CrazyOmya, a passionate coder and open-source enthusiast with a focus on machine learning and expertise in Python. Here's a bit about me:
+I'm Omkar Kulkarni, a passionate coder and open-source enthusiast with a focus on machine learning and expertise in Python. Here's a bit about me:
 
 - 🌱 I'm currently pursuing my bachelor's in engineering.
 - ⚙️ I have intermediate-level expertise in Python and C, with a track record of projects in both, and a keen interest in machine learning.
